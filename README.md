@@ -1,0 +1,2 @@
+# Suspicious-Student-s-Chatting-Forum
+This application is a forum chatting application for students and its suspicious to dirty or abusive words. It was developed using php, consist of students login page which is their matric number and password which will lead them to chatting page. Likewise the admin which could view all students and chats and can disable students violating the rules of chatting with dirty or abusive words.
